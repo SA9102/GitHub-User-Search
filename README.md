@@ -1,3 +1,15 @@
+# GitHub User Search
+
+A simple program where you can search for GitHub users by username. Made with React, Chakra UI and the GitHub REST API (Search).
+
+[View this project on GitHub Pages.](http://SA9102.github.io/GitHub-User-Search)
+
+## Update Log (dd/mm/yy)
+
+### 12/02/23
+
+Repository created and first commit.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
